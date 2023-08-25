@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Lato:ital,wght@0,100;1,900&display=swap');
+
+
+
+
 nav ul {
     list-style: none;
     text-align: center;
+    background-color: black;
   }
   
   nav ul li {
